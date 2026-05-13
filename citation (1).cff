@@ -1,0 +1,17 @@
+title: Cadastro de carros de um estacionamento privado
+authors:family-names: Silva
+        given-names: Gustavo
+    family-names: Silva
+    given-names: Gustavo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pontes
+    given-names: Diego
+keywords:
+  - veiculos
+  - estacionamento
+  - placa
+  - tempo
+repository-code: 
+version: 1.0.0
+date-released: 2023-10-31
