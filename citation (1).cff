@@ -1,8 +1,8 @@
 title: Cadastro de carros de um estacionamento privado
 authors:family-names: Silva
         given-names: Gustavo
-    family-names: Silva
-    given-names: Gustavo
+    family-names: Souza
+    given-names: Vitor
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Pontes
@@ -11,6 +11,7 @@ keywords:
   - veiculos
   - estacionamento
   - placa
+  - vaga
   - tempo
 repository-code: 
 version: 1.0.0
