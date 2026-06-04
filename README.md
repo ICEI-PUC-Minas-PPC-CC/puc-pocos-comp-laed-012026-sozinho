@@ -4,3 +4,5 @@
 Alunos:
 
 Gustavo Evangelista da Silva
+
+Vitor Souza
